@@ -14,7 +14,7 @@
 
 # 🚀 Live Project Showcase
 
-A curated collection of deployed systems built with real-world architecture, secure backend logic, and modern UI engineering.
+A curated collection of deployed systems built with scalable architecture, secure backend logic, and immersive user experiences.
 
 ---
 
@@ -30,6 +30,9 @@ Transforms daily goals into an immersive RPG-style progression engine.
 ### 🔗 Access
 **Live Application:**  
 👉 https://progresstracker28.netlify.app/
+
+**GitHub Repository:**  
+👉 https://github.com/ragavan28v/zero2elite
 
 ### ⚙️ Core Highlights
 - RPG-style leveling system  
@@ -77,11 +80,14 @@ Security: `JWT` • `Hashed Passwords` • `Protected Routes`
 # 🦅 03 — PHISHSIM  
 ## AI-Powered Phishing Simulation Platform
 
-Educational cybersecurity training system with real-time analytics and AI-driven campaign generation.
+Educational cybersecurity training system with AI-driven campaign generation, real-time analytics, and geo tracking.
 
 ### 🔗 Access
 **Live Application:**  
 👉 https://phishsim.onrender.com/login  
+
+**GitHub Repository:**  
+👉 https://github.com/ragavan28v/PhishSim
 
 ### 🤖 Core Capabilities
 - AI-generated phishing templates  
