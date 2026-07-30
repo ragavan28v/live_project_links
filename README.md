@@ -17,11 +17,12 @@
 <br>
 
 <!--
-  NOTE: the buttons drawn inside the dashboard graphic above (LIVE / APK / REPO)
-  are part of a static image and can't be clickable on GitHub — an <a> baked
-  into an SVG that's loaded through <img>/<picture> never becomes interactive,
-  no matter what viewer you're using. The table below re-creates every one of
-  those links as real, working buttons.
+  NOTE: the LIVE / APK / REPO elements inside each project card in the graphic
+  above are rendered as status-panel readouts (LED + signal-bar indicators),
+  not buttons — this keeps the dashboard from visually implying it's
+  clickable, since an <a> baked into an SVG loaded through <img>/<picture>
+  never becomes interactive on GitHub, no matter what viewer you're using.
+  The table below re-creates every one of those links as real, working buttons.
 -->
 
 <div align="center">
